@@ -1,2 +1,54 @@
 # social-media-addiction-analysis
 EDA &amp; insights project using Python, Pandas, Matplotlib
+📊 Combating Social Media Addiction with Data-Driven Insights
+🔹 Overview
+
+This project explores student social media usage patterns and their impact on sleep, mental health, and academic performance. Using Python and data visualization, I analyzed trends, identified addiction risks, and suggested data-driven strategies for digital wellness.
+
+🔹 Objectives
+
+Perform EDA (Exploratory Data Analysis) to uncover trends in social media usage
+
+Identify correlations between usage hours, conflicts, sleep patterns, and mental health
+
+Classify addiction risk levels using custom functions
+
+Provide digital detox strategies based on insights
+
+Create visualizations and a storytelling summary for awareness
+
+🔹 Tools & Technologies
+
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+Google Colab
+
+Gemini Gen AI (for assistance in analysis & storytelling)
+
+🔹 Key Insights
+
+📈 Higher social media usage strongly correlates with reduced sleep and lower mental health scores
+
+🎯 High school students showed the highest average addiction scores
+
+🔍 Average addiction decreases as age increases, with some exceptions
+
+📱 Instagram & TikTok account for the majority of usage hours
+
+🔹 Visualizations
+
+Addiction Score by Age, Gender & Academic Level
+
+Sleep Hours vs Academic Performance
+
+Platform Usage Distribution (Pie Chart)
+
+Correlation Heatmap of numerical variables
+
+🔹 Project Structure
+
+Combating_Social_Media_Addiction_with_Data_Driven_Insights.ipynb → Notebook with full code & analysis
+
+Combating_Social_Media_Addiction_with_Data_Driven_Insights.pdf → Report with outputs & insights
+
+Python Mini Project - Social Media Combat.pdf → Original project document with tasks & guidelines
