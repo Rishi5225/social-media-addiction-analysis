@@ -57,3 +57,20 @@ Python Mini Project - Social Media Combat.pdf → Original project document with
 - **Younger students at greater risk:** High school students show the highest average addiction scores.
 - **Platform concentration:** Instagram and TikTok account for most usage hours.
 - **Usage & conflicts:** Higher usage correlates with more conflicts over social media and lower academic performance.
+
+  “How to Run” section
+  ## How to Run
+
+### Option A — Open in Google Colab (recommended)
+1. Open this notebook in Colab:  
+   `https://colab.research.google.com/github/Rishi5225/social-media-addiction-analysis/blob/main/Combating_Social_Media_Addiction_with_Data_Driven_Insights.ipynb`
+2. Click **Runtime → Run all** to execute all cells.
+
+### Option B — Run locally
+```bash
+git clone https://github.com/Rishi5225/social-media-addiction-analysis.git
+cd social-media-addiction-analysis
+pip install pandas numpy matplotlib seaborn
+jupyter notebook
+# then open the notebook file and run cells
+
