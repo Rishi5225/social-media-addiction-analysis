@@ -52,3 +52,8 @@ Combating_Social_Media_Addiction_with_Data_Driven_Insights.ipynb → Notebook wi
 Combating_Social_Media_Addiction_with_Data_Driven_Insights.pdf → Report with outputs & insights
 
 Python Mini Project - Social Media Combat.pdf → Original project document with tasks & guidelines
+## Key Insights
+- **Higher usage → worse sleep & mental health:** Higher daily social media usage strongly correlates with reduced sleep hours and lower mental health scores.
+- **Younger students at greater risk:** High school students show the highest average addiction scores.
+- **Platform concentration:** Instagram and TikTok account for most usage hours.
+- **Usage & conflicts:** Higher usage correlates with more conflicts over social media and lower academic performance.
