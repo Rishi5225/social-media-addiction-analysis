@@ -1,6 +1,8 @@
 # social-media-addiction-analysis
 EDA &amp; insights project using Python, Pandas, Matplotlib
 📊 Combating Social Media Addiction with Data-Driven Insights
+
+
 🔹 Overview
 
 This project explores student social media usage patterns and their impact on sleep, mental health, and academic performance. Using Python and data visualization, I analyzed trends, identified addiction risks, and suggested data-driven strategies for digital wellness.
