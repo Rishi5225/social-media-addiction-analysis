@@ -75,6 +75,7 @@ cd social-media-addiction-analysis
 pip install pandas numpy matplotlib seaborn
 jupyter notebook
 # then open the notebook file and run cells
+
 ## Visualizations
 
 ### Box Plot — Social Media Usage by Gender & Age
